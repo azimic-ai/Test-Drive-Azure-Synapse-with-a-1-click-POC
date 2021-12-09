@@ -469,7 +469,7 @@
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
-				"defaultValue": " testnq7bkugeecwsypocws1"
+				"defaultValue": "testnq7bkugeecwsypocws1"
 			},
 			"SQLLoginUsername": {
 				"type": "string",
@@ -477,7 +477,7 @@
 			},
 			"KeyVaultName": {
 				"type": "string",
-				"defaultValue": " kvtestnq7bkugeecwsypoc"
+				"defaultValue": "kvtestnq7bkugeecwsypoc"
 			},
 			"datalakeAccountName": {
 				"type": "string",
